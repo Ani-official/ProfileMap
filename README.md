@@ -55,6 +55,10 @@ Profile Map App is a React-based web application designed to display and manage 
      ```env
      VITE_SUPABASE_URL=your-supabase-url
      VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
+
+     Set Up Supabase project with the help of migration file. 
+     Add Row-level Policies.
+     Make sure to disable confirm email and secure confirm email in providers/email.
      ```
 
 4. Start the development server:
