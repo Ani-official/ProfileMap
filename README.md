@@ -66,8 +66,8 @@ Profile Map App is a React-based web application designed to display and manage 
 ## Screenshots
 
 ### Profile List
-![Profile List](./screenshot/ProfileList.png)
-![Map Location](./screenshot/MapLocation.png)
+![Profile List](./screenshots/ProfileList.png)
+![Map Location](./screenshots/MapLocation.png)
 
 ### Admin Dashboard
 ![Sign In](./screenshots/SignIn.png)
