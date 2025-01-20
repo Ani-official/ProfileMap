@@ -110,11 +110,6 @@ function App() {
               <div className="w-full lg:w-full overflow-y-auto">
                 {activeTab === 'profiles' ? <ProfileList /> : <AdminPanel />}
               </div>
-
-              {/* Right Panel (Map) */}
-              {/* <div className="block w-4/5 h-full fixed right-0">
-                <MapView />
-              </div> */}
             </div>
           </div>
         </main>

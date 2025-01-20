@@ -63,6 +63,20 @@ Profile Map App is a React-based web application designed to display and manage 
    npm run dev
    ```
 
+## Screenshots
+
+### Profile List
+![Profile List](./screenshot/ProfileList.png)
+![Map Location](./screenshot/MapLocation.png)
+
+### Admin Dashboard
+![Sign In](./screenshots/SignIn.png)
+![Admin Dashboard](./screenshots/AdminDashboard.png)
+
+### Admin Dashboard
+![Admin Dashboard](./screenshots/ResposiveAdmin.png)
+![Profile List](./screenshots/ResponsiveProfile.png)
+
 ## Scripts
 
 - **`npm run dev`**: Start the development server.

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useProfileStore } from '../store/profileStore';
 import { MapPin, Mail, Phone, X, Search } from 'lucide-react';
-import { MapView } from './Map';  // Import MapView
+import { MapView } from './Map';  
 
 export const ProfileList: React.FC = () => {
   const { profiles, fetchProfiles, setSelectedProfile, loading, selectedProfile } = useProfileStore();
